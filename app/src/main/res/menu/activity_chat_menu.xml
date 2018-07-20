@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/receive_message"
+    android:title="recev_msg"/>
+
+    <item android:id="@+id/contact_detail_chat_view"
+        android:title="@string/his_profile"/>
+
+
+</menu>
